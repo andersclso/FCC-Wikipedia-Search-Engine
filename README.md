@@ -1,7 +1,7 @@
 ---
 layout: _pages/post
 title: Wikipedia Viewer
-date: '2018-01-05'
+date: '2017-11-03'
 link: 'https://andersclso.github.io/FCC-Wikipedia-Search-Engine/'
 code: 'https://github.com/andersclso/FCC-Wikipedia-Viewer-API-Project'
 program: Freecodecamp - Front End Development Certification
